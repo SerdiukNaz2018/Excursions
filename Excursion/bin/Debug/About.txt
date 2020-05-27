@@ -1,0 +1,12 @@
+	The aim of this program is to manage
+	    all your excursions. Here you
+	    can do following operations: 
+
+	- Load information from .txt file
+	- Create excursion list
+	- Delete
+	- Update
+	- Add new
+	- Sort
+	- Save the changes to the current file.
+	- Save your list as a new .txt file.

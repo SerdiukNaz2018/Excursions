@@ -1,0 +1,13 @@
+C:\Users\serdi\source\repos\BookShelf\bin\Debug\BookShelf.exe.config
+C:\Users\serdi\source\repos\BookShelf\bin\Debug\BookShelf.exe
+C:\Users\serdi\source\repos\BookShelf\bin\Debug\BookShelf.pdb
+C:\Users\serdi\source\repos\BookShelf\obj\Debug\BookShelf.csprojAssemblyReference.cache
+C:\Users\serdi\source\repos\BookShelf\obj\Debug\BookShelf.Form1.resources
+C:\Users\serdi\source\repos\BookShelf\obj\Debug\BookShelf.Properties.Resources.resources
+C:\Users\serdi\source\repos\BookShelf\obj\Debug\BookShelf.csproj.GenerateResource.cache
+C:\Users\serdi\source\repos\BookShelf\obj\Debug\BookShelf.csproj.CoreCompileInputs.cache
+C:\Users\serdi\source\repos\BookShelf\obj\Debug\BookShelf.exe
+C:\Users\serdi\source\repos\BookShelf\obj\Debug\BookShelf.pdb
+C:\Users\serdi\source\repos\BookShelf\obj\Debug\BookShelf.Form2.resources
+C:\Users\serdi\source\repos\BookShelf\obj\Debug\BookShelf.Form4.resources
+C:\Users\serdi\source\repos\BookShelf\obj\Debug\BookShelf.Form5.resources

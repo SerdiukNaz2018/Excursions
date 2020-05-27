@@ -1,0 +1,13 @@
+C:\Users\serdi\source\repos\Excursion\bin\Debug\BookShelf.exe.config
+C:\Users\serdi\source\repos\Excursion\bin\Debug\BookShelf.exe
+C:\Users\serdi\source\repos\Excursion\bin\Debug\BookShelf.pdb
+C:\Users\serdi\source\repos\Excursion\obj\Debug\Excursion.csprojAssemblyReference.cache
+C:\Users\serdi\source\repos\Excursion\obj\Debug\Excursion.Form1.resources
+C:\Users\serdi\source\repos\Excursion\obj\Debug\Excursion.Form2.resources
+C:\Users\serdi\source\repos\Excursion\obj\Debug\Excursion.Form4.resources
+C:\Users\serdi\source\repos\Excursion\obj\Debug\Excursion.Form5.resources
+C:\Users\serdi\source\repos\Excursion\obj\Debug\BookShelf.Properties.Resources.resources
+C:\Users\serdi\source\repos\Excursion\obj\Debug\Excursion.csproj.GenerateResource.cache
+C:\Users\serdi\source\repos\Excursion\obj\Debug\Excursion.csproj.CoreCompileInputs.cache
+C:\Users\serdi\source\repos\Excursion\obj\Debug\BookShelf.exe
+C:\Users\serdi\source\repos\Excursion\obj\Debug\BookShelf.pdb
